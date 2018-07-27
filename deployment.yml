@@ -1,5 +1,5 @@
 apiVersion: extensions/v1beta1
-king: Deployment
+kind: Deployment
 metadata:
   name: java-demo-001
 spec:
